@@ -1,4 +1,4 @@
-# Projet COVID-19 - Analyse Exploratoire
+# Projet COVID-19
 
 ## Introduction
 Ce projet se concentre sur l'analyse de données provenant de tests sanguins et viraux pour des patients atteints ou non du COVID-19. L'objectif principal est de comprendre les relations entre certaines caractéristiques biologiques et le statut COVID-19 des patients, ainsi que de tester des hypothèses biologiques.
